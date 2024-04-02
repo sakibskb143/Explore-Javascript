@@ -1,0 +1,11 @@
+const min = Math.min(223,43,2,3,53,-1,0);
+console.log(min);
+const max  = Math.max(23,34,12,6,45,34,6,-2);;
+console.log(max);
+const div = 10/3 ;
+console.log(Math.round(4.90));
+console.log(Math.floor(div));
+console.log(Math.ceil(div));
+console.log(Math.random());
+console.log(Math.random()*10);
+console.log(Math.round(Math.random()*10));
