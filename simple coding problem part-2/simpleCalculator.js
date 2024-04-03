@@ -34,5 +34,5 @@ function calculator(a , b , operation)
      }
 
 }
-const screen = calculator(5,7,"subtract");
+const screen = calculator(5,7,"add");
 console.log(screen);
